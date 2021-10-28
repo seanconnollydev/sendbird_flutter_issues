@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sendbird_flutter_issues.iml" filepath="$PROJECT_DIR$/sendbird_flutter_issues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/sendbird_flutter_issues_android.iml" filepath="$PROJECT_DIR$/android/sendbird_flutter_issues_android.iml" />
+    </modules>
+  </component>
+</project>
