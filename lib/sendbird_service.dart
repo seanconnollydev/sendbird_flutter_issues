@@ -5,6 +5,7 @@ class SendbirdService {
   final SendbirdSdk _sendbirdSdk;
 
   SendbirdService(this._sendbirdSdk) {
+    _sendbirdSdk.setLogLevel(LogLevel.verbose);
     _sendbirdSdk.addConnectionEventHandler(
         'CONNECTION_EVENT_HANDLER', MyConnectionEventListener());
   }
