@@ -39,3 +39,11 @@ sendbird_sdk:
 This video walks through my experience with the `connection` branch where I still see multiple errors with the Sendbird SDK.
 
 [Dec 7 walkthrough](https://drive.google.com/file/d/1JMBewtv-RM8dAz4xDGMZE6wphuFwHyZJ/view?usp=sharing)
+
+## December 8, 2021 Update
+
+Added verbose logging and demonstrated within this sample project.
+
+This video walks through my experience with the `connection` branch where I still see multiple errors with the Sendbird SDK.
+
+[Dec 8 walkthrough](https://drive.google.com/file/d/1aHozn16Tlg-ryfbcV-zV-CMNHsKFrKTC/view?usp=sharing)
